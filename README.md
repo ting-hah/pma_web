@@ -19,4 +19,5 @@ Future integrations include:
 _No setup instructions yet. Will be updated soon!_
 
 ## 📜 License
-This project uses the **MIT License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for details.
+
